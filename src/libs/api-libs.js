@@ -1,4 +1,4 @@
-import data from '../app/DATA.json';
+import data from '../../DATA.json';
 
 export const getNewsResponse = (page, limit, query = '') => {
   return new Promise((resolve) => {
