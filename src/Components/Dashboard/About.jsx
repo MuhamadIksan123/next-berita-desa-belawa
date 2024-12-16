@@ -1,8 +1,8 @@
 const About = () => {
     return (
       <section className="bg-slate-100">
-        <div className="mx-auto max-w-screen-xl px-4 sm:px-6 sm:py-24 lg:px-8">
-          <h2 className="text-xl font-bold sm:text-2xl lg:text-4xl text-color-dark">
+        <div className="mx-auto max-w-screen-xl px-4 sm:px-6 py-16 sm:py-24 lg:px-8">
+          <h2 className="font-bold sm:text-2xl lg:text-4xl text-color-dark">
             Tentang Desa Belawa
           </h2>
           <div className="mt-4 grid grid-cols-1 gap-8 lg:grid-cols-2 lg:gap-16">
