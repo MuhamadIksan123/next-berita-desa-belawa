@@ -1,11 +1,11 @@
 const About = () => {
     return (
       <section className="bg-slate-100">
-        <div className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
-          <h2 className="text-3xl font-bold sm:text-4xl text-color-dark">
+        <div className="mx-auto max-w-screen-xl px-4 sm:px-6 sm:py-24 lg:px-8">
+          <h2 className="text-xl font-bold sm:text-2xl lg:text-4xl text-color-dark">
             Tentang Desa Belawa
           </h2>
-          <div className="mt-8 grid grid-cols-1 gap-8 lg:grid-cols-2 lg:gap-16">
+          <div className="mt-4 grid grid-cols-1 gap-8 lg:grid-cols-2 lg:gap-16">
             <div className="relative h-64 overflow-hidden sm:h-80 lg:h-full">
               <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31691.8582285382!2d108.56964327366417!3d-6.832632001263672!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f1b1430d2ad25%3A0xc48e2d0e99cb8885!2sBelawa%2C%20Kec.%20Lemahabang%2C%20Kabupaten%20Cirebon%2C%20Jawa%20Barat!5e0!3m2!1sid!2sid!4v1729175481319!5m2!1sid!2sid"
