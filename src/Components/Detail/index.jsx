@@ -32,7 +32,7 @@ const Detail = ({ news }) => {
             <img
               alt=""
               src={news.foto}
-              className="object-cover shadow-xl border border-color-dark"
+              className="object-cover shadow-xl border border-color-dark min-h-64"
             />
           </div>
 
