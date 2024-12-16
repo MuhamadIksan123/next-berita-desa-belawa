@@ -1,8 +1,8 @@
 'use client';
 
-import News from '@/components/Dashboard/News';
-import InputSearch from '@/components/utilities/InputSearch';
-import Pagination from '@/components/utilities/Pagination';
+import News from '@/Components/Dashboard/News';
+import InputSearch from '@/Components/utilities/InputSearch';
+import Pagination from '@/Components/utilities/Pagination';
 import { getNewsResponse } from '@/libs/api-libs';
 import { useEffect, useState } from 'react';
 
@@ -15,11 +15,7 @@ const Page = async ({ params }) => {
   const [totalPages, setTotalPages] = useState(1); // State untuk menyimpan total halaman
 
   const fetchData = async () => {
-    const newsBelawa = await getNewsResponse(
-      page,
-      12,
-      decodedKeyword
-    ); // Kirim keyword sebagai query ke fungsi
+    const newsBelawa = await getNewsResponse(page, 12, decodedKeyword); // Kirim keyword sebagai query ke fungsi
     setNews(newsBelawa.data);
     setTotalPages(newsBelawa.totalPages); // Simpan total halaman
   };
