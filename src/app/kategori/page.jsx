@@ -1,8 +1,8 @@
 "use client"
 
-import News from '@/Components/Dashboard/News';
-import InputSearch from '@/Components/utilities/InputSearch';
-import Pagination from '@/Components/utilities/Pagination';
+import News from '@/components/Dashboard/News';
+import InputSearch from '@/components/utilities/InputSearch';
+import Pagination from '@/components/utilities/Pagination';
 import { getNewsResponse } from '@/libs/api-libs';
 import { useEffect, useState } from 'react';
 

@@ -1,4 +1,4 @@
-import TeksKontak from '@/Components/Kontak/TeksKontak';
+import TeksKontak from '@/components/Kontak/TeksKontak';
 
 const Page = () => {
     return (

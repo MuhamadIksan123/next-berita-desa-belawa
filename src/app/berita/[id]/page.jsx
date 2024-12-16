@@ -1,4 +1,4 @@
-import Detail from '@/Components/Detail';
+import Detail from '@/components/Detail';
 import { getNewsById } from '@/libs/api-libs';
 
 const Page = async ({ params: { id } }) => {
