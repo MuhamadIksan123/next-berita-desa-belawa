@@ -12,7 +12,7 @@ const Page = () => {
   const [totalPages, setTotalPages] = useState(1);
 
   const fetchData = async () => {
-    const newsBelawa = await getNewsResponse(page, 12);
+    const newsBelawa = await getNewsResponse(page, 8);
     setNews(newsBelawa.data);
     setTotalPages(newsBelawa.totalPages);
   };
