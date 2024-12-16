@@ -6,15 +6,15 @@ import Pagination from '@/Components/utilities/Pagination';
 import { getNewsResponse } from '@/libs/api-libs';
 import { useEffect, useState } from 'react';
 
-const Page = async () => {
+const Page = () => {
   const [page, setPage] = useState(1);
   const [news, setNews] = useState([]);
-  const [totalPages, setTotalPages] = useState(1); // State untuk menyimpan total halaman
+  const [totalPages, setTotalPages] = useState(1);
 
   const fetchData = async () => {
     const newsBelawa = await getNewsResponse(page, 12);
     setNews(newsBelawa.data);
-    setTotalPages(newsBelawa.totalPages); // Simpan total halaman
+    setTotalPages(newsBelawa.totalPages);
   };
 
   useEffect(() => {

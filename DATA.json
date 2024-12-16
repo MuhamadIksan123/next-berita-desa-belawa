@@ -71,10 +71,12 @@
       "kategori": "kkm",
       "media": [
         {
-          "icon": "<a href='https://www.instagram.com/kkmdesabelawa2022/'><i className='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "InstagramLogo",
+          "link": "https://www.instagram.com/kkmdesabelawa2022/"
         },
         {
-          "icon": "<a href='https://drive.google.com/drive/folders/18jp1deCvOKTzBVEYfGkFI_uPW9QG84Te?usp=sharing'><i className='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>a>"
+          "icon": "GoogleDriveLogo",
+          "link": "https://drive.google.com/drive/folders/18jp1deCvOKTzBVEYfGkFI_uPW9QG84Te?usp=sharing"
         }
       ]
     },
@@ -87,16 +89,20 @@
       "kategori": "pemdes",
       "media": [
         {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i className='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "FacebookLogo",
+          "link": "https://m.facebook.com/profile.php?id=100079592233944"
         },
         {
-          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i className='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "YoutubeLogo",
+          "link": "https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured"
         },
         {
-          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i className='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "InstagramLogo",
+          "link": "https://www.instagram.com/pemdes.belawa/"
         },
         {
-          "icon": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i className='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "GoogleDriveLogo",
+          "link": "https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing"
         }
       ]
     },
@@ -109,10 +115,20 @@
       "kategori": "pemdes",
       "media": [
         {
-          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i className='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "FacebookLogo",
+          "link": "https://m.facebook.com/profile.php?id=100079592233944"
         },
         {
-          "icon": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i className='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "YoutubeLogo",
+          "link": "https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured"
+        },
+        {
+          "icon": "InstagramLogo",
+          "link": "https://www.instagram.com/pemdes.belawa/"
+        },
+        {
+          "icon": "GoogleDriveLogo",
+          "link": "https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing"
         }
       ]
     },
@@ -125,16 +141,20 @@
       "kategori": "pemdes",
       "media": [
         {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i className='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "FacebookLogo",
+          "link": "https://m.facebook.com/profile.php?id=100079592233944"
         },
         {
-          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i className='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "YoutubeLogo",
+          "link": "https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured"
         },
         {
-          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i className='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "InstagramLogo",
+          "link": "https://www.instagram.com/pemdes.belawa/"
         },
         {
-          "icon": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i className='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "GoogleDriveLogo",
+          "link": "https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing"
         }
       ]
     },
@@ -147,16 +167,20 @@
       "kategori": "pemdes",
       "media": [
         {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i className='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "FacebookLogo",
+          "link": "https://m.facebook.com/profile.php?id=100079592233944"
         },
         {
-          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i className='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "YoutubeLogo",
+          "link": "https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured"
         },
         {
-          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i className='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "InstagramLogo",
+          "link": "https://www.instagram.com/pemdes.belawa/"
         },
         {
-          "icon": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i className='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "GoogleDriveLogo",
+          "link": "https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing"
         }
       ]
     },
@@ -169,16 +193,20 @@
       "kategori": "layanan",
       "media": [
         {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i className='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "FacebookLogo",
+          "link": "https://m.facebook.com/profile.php?id=100079592233944"
         },
         {
-          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i className='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "YoutubeLogo",
+          "link": "https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured"
         },
         {
-          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i className='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "InstagramLogo",
+          "link": "https://www.instagram.com/pemdes.belawa/"
         },
         {
-          "icon": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i className='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "GoogleDriveLogo",
+          "link": "https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing"
         }
       ]
     },
@@ -191,16 +219,20 @@
       "kategori": "layanan",
       "media": [
         {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i className='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "FacebookLogo",
+          "link": "https://m.facebook.com/profile.php?id=100079592233944"
         },
         {
-          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i className='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "YoutubeLogo",
+          "link": "https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured"
         },
         {
-          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i className='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "InstagramLogo",
+          "link": "https://www.instagram.com/pemdes.belawa/"
         },
         {
-          "icon": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i className='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "GoogleDriveLogo",
+          "link": "https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing"
         }
       ]
     },
@@ -213,16 +245,20 @@
       "kategori": "pemdes",
       "media": [
         {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i className='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "FacebookLogo",
+          "link": "https://m.facebook.com/profile.php?id=100079592233944"
         },
         {
-          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i className='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "YoutubeLogo",
+          "link": "https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured"
         },
         {
-          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i className='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "InstagramLogo",
+          "link": "https://www.instagram.com/pemdes.belawa/"
         },
         {
-          "icon": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i className='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "GoogleDriveLogo",
+          "link": "https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing"
         }
       ]
     },
@@ -249,16 +285,20 @@
       "kategori": "pemdes",
       "media": [
         {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i className='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "FacebookLogo",
+          "link": "https://m.facebook.com/profile.php?id=100079592233944"
         },
         {
-          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i className='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "YoutubeLogo",
+          "link": "https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured"
         },
         {
-          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i className='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "InstagramLogo",
+          "link": "https://www.instagram.com/pemdes.belawa/"
         },
         {
-          "icon": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i className='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "GoogleDriveLogo",
+          "link": "https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing"
         }
       ]
     },
@@ -271,16 +311,20 @@
       "kategori": "pemdes",
       "media": [
         {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i className='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "FacebookLogo",
+          "link": "https://m.facebook.com/profile.php?id=100079592233944"
         },
         {
-          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i className='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "YoutubeLogo",
+          "link": "https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured"
         },
         {
-          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i className='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "InstagramLogo",
+          "link": "https://www.instagram.com/pemdes.belawa/"
         },
         {
-          "icon": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i className='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "GoogleDriveLogo",
+          "link": "https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing"
         }
       ]
     },
@@ -293,16 +337,20 @@
       "kategori": "pemdes",
       "media": [
         {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i className='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "FacebookLogo",
+          "link": "https://m.facebook.com/profile.php?id=100079592233944"
         },
         {
-          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i className='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "YoutubeLogo",
+          "link": "https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured"
         },
         {
-          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i className='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "InstagramLogo",
+          "link": "https://www.instagram.com/pemdes.belawa/"
         },
         {
-          "icon": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i className='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "GoogleDriveLogo",
+          "link": "https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing"
         }
       ]
     },
@@ -315,16 +363,20 @@
       "kategori": "pemdes",
       "media": [
         {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i className='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "FacebookLogo",
+          "link": "https://m.facebook.com/profile.php?id=100079592233944"
         },
         {
-          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i className='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "YoutubeLogo",
+          "link": "https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured"
         },
         {
-          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i className='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "InstagramLogo",
+          "link": "https://www.instagram.com/pemdes.belawa/"
         },
         {
-          "icon": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i className='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "GoogleDriveLogo",
+          "link": "https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing"
         }
       ]
     },
@@ -337,16 +389,20 @@
       "kategori": "layanan",
       "media": [
         {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i className='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "FacebookLogo",
+          "link": "https://m.facebook.com/profile.php?id=100079592233944"
         },
         {
-          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i className='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "YoutubeLogo",
+          "link": "https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured"
         },
         {
-          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i className='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "InstagramLogo",
+          "link": "https://www.instagram.com/pemdes.belawa/"
         },
         {
-          "icon": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i className='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "GoogleDriveLogo",
+          "link": "https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing"
         }
       ]
     },
@@ -359,16 +415,20 @@
       "kategori": "pemdes",
       "media": [
         {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i className='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "FacebookLogo",
+          "link": "https://m.facebook.com/profile.php?id=100079592233944"
         },
         {
-          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i className='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "YoutubeLogo",
+          "link": "https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured"
         },
         {
-          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i className='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "InstagramLogo",
+          "link": "https://www.instagram.com/pemdes.belawa/"
         },
         {
-          "icon": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i className='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "GoogleDriveLogo",
+          "link": "https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing"
         }
       ]
     },
@@ -381,16 +441,20 @@
       "kategori": "pemdes",
       "media": [
         {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i className='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "FacebookLogo",
+          "link": "https://m.facebook.com/profile.php?id=100079592233944"
         },
         {
-          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i className='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "YoutubeLogo",
+          "link": "https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured"
         },
         {
-          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i className='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "InstagramLogo",
+          "link": "https://www.instagram.com/pemdes.belawa/"
         },
         {
-          "icon": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i className='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "GoogleDriveLogo",
+          "link": "https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing"
         }
       ]
     },
@@ -403,16 +467,20 @@
       "kategori": "pemdes",
       "media": [
         {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i className='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "FacebookLogo",
+          "link": "https://m.facebook.com/profile.php?id=100079592233944"
         },
         {
-          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i className='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "YoutubeLogo",
+          "link": "https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured"
         },
         {
-          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i className='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "InstagramLogo",
+          "link": "https://www.instagram.com/pemdes.belawa/"
         },
         {
-          "icon": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i className='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "GoogleDriveLogo",
+          "link": "https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing"
         }
       ]
     },
@@ -425,16 +493,20 @@
       "kategori": "pemdes",
       "media": [
         {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i className='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "FacebookLogo",
+          "link": "https://m.facebook.com/profile.php?id=100079592233944"
         },
         {
-          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i className='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "YoutubeLogo",
+          "link": "https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured"
         },
         {
-          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i className='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "InstagramLogo",
+          "link": "https://www.instagram.com/pemdes.belawa/"
         },
         {
-          "icon": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i className='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "GoogleDriveLogo",
+          "link": "https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing"
         }
       ]
     },
@@ -447,16 +519,20 @@
       "kategori": "pemdes",
       "media": [
         {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i className='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "FacebookLogo",
+          "link": "https://m.facebook.com/profile.php?id=100079592233944"
         },
         {
-          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i className='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "YoutubeLogo",
+          "link": "https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured"
         },
         {
-          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i className='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
-        }
-        ,{
-          "icon": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i className='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "InstagramLogo",
+          "link": "https://www.instagram.com/pemdes.belawa/"
+        },
+        {
+          "icon": "GoogleDriveLogo",
+          "link": "https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing"
         }
       ]
     },
@@ -469,10 +545,12 @@
       "kategori": "kkm",
       "media": [
         {
-          "icon": "<a href='https://www.instagram.com/kkm.belawa2022/'><i className='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "InstagramLogo",
+          "link": "https://www.instagram.com/kkm.belawa2022/"
         },
         {
-          "icon": "<a href='https://drive.google.com/drive/folders/18jp1deCvOKTzBVEYfGkFI_uPW9QG84Te?usp=sharing'><i className='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "GoogleDriveLogo",
+          "link": "https://drive.google.com/drive/folders/18jp1deCvOKTzBVEYfGkFI_uPW9QG84Te?usp=sharing"
         }
       ]
     },
@@ -494,10 +572,12 @@
       "kategori": "kkm",
       "media": [
         {
-          "icon": "<a href='https://www.instagram.com/kkm.belawa2022/'><i className='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "InstagramLogo",
+          "link": "https://www.instagram.com/kkm.belawa2022/"
         },
         {
-          "icon": "<a href='https://drive.google.com/drive/folders/18jp1deCvOKTzBVEYfGkFI_uPW9QG84Te?usp=sharing'><i className='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "GoogleDriveLogo",
+          "link": "https://drive.google.com/drive/folders/18jp1deCvOKTzBVEYfGkFI_uPW9QG84Te?usp=sharing"
         }
       ]
     },
@@ -510,10 +590,12 @@
       "kategori": "kkm",
       "media": [
         {
-          "icon": "<a href='https://www.instagram.com/kkm.belawa2022/'><i className='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "InstagramLogo",
+          "link": "https://www.instagram.com/kkm.belawa2022/"
         },
         {
-          "icon": "<a href='https://drive.google.com/drive/folders/18jp1deCvOKTzBVEYfGkFI_uPW9QG84Te?usp=sharing'><i className='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "GoogleDriveLogo",
+          "link": "https://drive.google.com/drive/folders/18jp1deCvOKTzBVEYfGkFI_uPW9QG84Te?usp=sharing"
         }
       ]
     },
@@ -526,10 +608,12 @@
       "kategori": "kkm",
       "media": [
         {
-          "icon": "<a href='https://www.instagram.com/kkm.belawa2022/'><i className='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "InstagramLogo",
+          "link": "https://www.instagram.com/kkm.belawa2022/"
         },
         {
-          "icon": "<a href='https://drive.google.com/drive/folders/18jp1deCvOKTzBVEYfGkFI_uPW9QG84Te?usp=sharing'><i className='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "GoogleDriveLogo",
+          "link": "https://drive.google.com/drive/folders/18jp1deCvOKTzBVEYfGkFI_uPW9QG84Te?usp=sharing"
         }
       ]
     },
@@ -542,10 +626,12 @@
       "kategori": "kkm",
       "media": [
         {
-          "icon": "<a href='https://www.instagram.com/kkm.belawa2022/'><i className='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "InstagramLogo",
+          "link": "https://www.instagram.com/kkm.belawa2022/"
         },
         {
-          "icon": "<a href='https://drive.google.com/drive/folders/18jp1deCvOKTzBVEYfGkFI_uPW9QG84Te?usp=sharing'><i className='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "GoogleDriveLogo",
+          "link": "https://drive.google.com/drive/folders/18jp1deCvOKTzBVEYfGkFI_uPW9QG84Te?usp=sharing"
         }
       ]
     },
@@ -558,10 +644,12 @@
       "kategori": "kkm",
       "media": [
         {
-          "icon": "<a href='https://www.instagram.com/kkm.belawa2022/'><i className='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "InstagramLogo",
+          "link": "https://www.instagram.com/kkm.belawa2022/"
         },
         {
-          "icon": "<a href='https://drive.google.com/drive/folders/18jp1deCvOKTzBVEYfGkFI_uPW9QG84Te?usp=sharing'><i className='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "GoogleDriveLogo",
+          "link": "https://drive.google.com/drive/folders/18jp1deCvOKTzBVEYfGkFI_uPW9QG84Te?usp=sharing"
         }
       ]
     },
@@ -574,10 +662,12 @@
       "kategori": "kkm",
       "media": [
         {
-          "icon": "<a href='https://www.instagram.com/kkm.belawa2022/'><i className='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "InstagramLogo",
+          "link": "https://www.instagram.com/kkm.belawa2022/"
         },
         {
-          "icon": "<a href='https://drive.google.com/drive/folders/18jp1deCvOKTzBVEYfGkFI_uPW9QG84Te?usp=sharing'><i className='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "GoogleDriveLogo",
+          "link": "https://drive.google.com/drive/folders/18jp1deCvOKTzBVEYfGkFI_uPW9QG84Te?usp=sharing"
         }
       ]
     },
@@ -590,10 +680,12 @@
       "kategori": "kkm",
       "media": [
         {
-          "icon": "<a href='https://www.instagram.com/kkm.belawa2022/'><i className='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "InstagramLogo",
+          "link": "https://www.instagram.com/kkm.belawa2022/"
         },
         {
-          "icon": "<a href='https://drive.google.com/drive/folders/18jp1deCvOKTzBVEYfGkFI_uPW9QG84Te?usp=sharing'><i className='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "GoogleDriveLogo",
+          "link": "https://drive.google.com/drive/folders/18jp1deCvOKTzBVEYfGkFI_uPW9QG84Te?usp=sharing"
         }
       ]
     }

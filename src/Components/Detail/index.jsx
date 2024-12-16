@@ -1,6 +1,12 @@
 'use client';
 
-import { Globe, GoogleDriveLogo, InstagramLogo } from '@phosphor-icons/react';
+import {
+  Globe,
+  GoogleDriveLogo,
+  InstagramLogo,
+  FacebookLogo,
+  YoutubeLogo,
+} from '@phosphor-icons/react';
 import Link from 'next/link';
 
 const Detail = ({ news }) => {
@@ -8,6 +14,8 @@ const Detail = ({ news }) => {
     InstagramLogo: InstagramLogo,
     Globe: Globe,
     GoogleDriveLogo: GoogleDriveLogo,
+    FacebookLogo: FacebookLogo,
+    YoutubeLogo: YoutubeLogo,
   };
   
   return (
