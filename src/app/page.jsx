@@ -1,6 +1,7 @@
+
 import About from '@/components/Dashboard/About';
-import Hero from '@/components/Dashboard/Hero';
 import HeaderNews from '@/components/Dashboard/HeaderNews';
+import Hero from '@/components/Dashboard/Hero';
 import { getNewsResponse } from '@/libs/api-libs';
 
 const Page = async () => {
