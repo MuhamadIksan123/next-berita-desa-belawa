@@ -22,8 +22,10 @@ const Page = async () => {
   }, [page]);
 
   return (
-    <section className="bg-gray-100 px-6 pt-24 lg:px-8">
-      <InputSearch />
+    <section className="bg-gray-100 pt-24 lg:px-8">
+      <div className='px-4'>
+        <InputSearch />
+      </div>
 
       {/* <SelectCategory
         selectedCategory={selectedCategory}
